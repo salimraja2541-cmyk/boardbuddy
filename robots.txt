@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salimraja2541-cmyk.github.io/boardbuddy/sitemap.xml
